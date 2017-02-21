@@ -1,0 +1,64 @@
+.fengo{
+    display: inline;
+}
+/*.fingo select{
+    width:50px;
+    height:500px;
+}*/
+
+ol,ul {list-style: none;}
+a:link,
+a:visited,
+a:hover,
+a:active{text-decoration:none;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+
+#logo{
+    width: 35px;
+    height:35px;
+    margin-top: -10px;
+}
+
+.adminlogin{
+    background-image: url('../../imgs/2016-05-08_210948.jpg');
+    background-position: center;
+    background-repeat: repeat-x;
+}
+
+.adminlogin h1{
+    color:#000;
+}
+.adminlogin a:link,
+.adminlogin a:visited{
+    color:#333333;
+}
+.adminlogin a:hover,
+.adminlogin a:active{
+    color:#158CBA;
+}
+
+
+
+.ztt{color:#fff;}
+
+
+
+.zt{
+    font-family:微软雅黑;
+}
+.bgc{background-image: url('../../imgs/2016-05-08_210948.jpg');}
+
+
+.ky{
+    background-color:#158CBA!important;
+}/*menu.php中用户管理按钮的颜色*/
+/*a{
+    color:#000 !important;
+}
+*/
+
+

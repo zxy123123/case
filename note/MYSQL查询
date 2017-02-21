@@ -1,0 +1,18 @@
+MYSQL 
+字串连接函数
+SELECT CONCAT('我', '和', '你', ',', '心连心.')
+
+
+单表自身连接查询
+#顶级和二级分类的组合
+SELECT c1.cname 顶级, c2.cname 二级
+FROM s47_category c1, s47_category c2
+WHERE c1.id = c2.pid AND c1.pid =0;
+
+#所有三层分类的数据
+SELECT c1.cname 顶级, c2.cname 二级, c3.cname 三级
+FROM s47_category c1, s47_category c2,s47_category c3
+WHERE c1.id = c2.pid AND c2.id = c3.pid AND c1.pid =0;
+
+
+

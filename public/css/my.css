@@ -1,0 +1,193 @@
+.fl{float:left;}
+.fr{float:right;}
+.clear{clear:both;}
+
+
+.sanhao{
+    width:1200px;
+    height:450px;
+    margin:0 auto;
+}
+
+.zhanwei{
+    width:1200px;
+    height:420px;
+    margin:0 auto;
+}
+
+.jingcai{
+    width:670px;
+    height:420px;
+}
+
+.gaozhi{
+    width:530px;
+    height:420px;
+}
+
+.zhanweier{
+    width:1200px;
+    height:580px;
+    margin:0 auto;
+}
+
+.zhanweisan{
+    width:800px;
+    height:580px;
+}
+
+.xingying{
+    width:400px;
+    height:580px;
+}
+
+.hudu{
+    width:400px;
+    height:580px;
+}
+
+.huwai{
+    width:400px;
+    height:580px;
+}
+
+.baitiao{
+    width:100%;
+    height:50px;
+}
+
+.baitiaoxia{
+    width:100%;
+    height:100px;
+}
+
+.repei{
+    width:100%;
+    height:80px;
+}
+
+.reziti{
+    text-align:center;
+    font-family:微软雅黑;
+    font-size:30px;
+    color:#000;
+}
+
+.peijian{
+    width:1263px;
+    height:525px;
+}
+
+.zuobian{
+    width:625px;
+    height:525px;
+}
+
+.youbian{
+    width:638px;
+    height:525px;
+}
+
+.zuoshang{
+    width:580px;
+    height:250px;
+}
+
+.zuoxia{
+    width:580px;
+    height:250px;
+}
+
+.touming{
+    width:275px;
+    height:250px;
+}
+
+.ganghuamo{
+    width:275px;
+    height:250px;
+}
+
+.youzuo{
+    width:270px;
+    height:525px;
+}
+
+.youyou{
+    width:318px;
+    height:525px;
+}
+
+.tiemo{
+    width:270px;
+    height:250px;
+}
+
+.biaoerji{
+     width:270px;
+    height:250px;
+}
+
+.dikuai{
+    width:1263px;
+    height:100px;
+}
+
+.bgy{background-color:yellow;}
+.bgr{background-color:red;}
+.bgl{background-color:blue;}
+.bgc{background-color:#F4F5F5;}
+
+.mt5{margin-top:5px;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt25{margin-top:25px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+
+
+.ml10{margin-left:10px;}
+.ml20{margin-left:20px;}
+.ml25{margin-left:25px;}
+.ml30{margin-left:30px;}
+.ml40{margin-left:40px;}
+.ml45{margin-left:45px;}
+.ml50{margin-left:50px;}
+
+
+#fixed{
+    position:fixed;
+    right:1px;
+    bottom:20px;
+    height:150px;
+    width:50px;
+    
+}
+.box2{
+          width: 42px;
+          height: 42px;
+          position: relative;
+        }
+.box2-2{
+          width:50px;
+          height:50px;
+          position: absolute;
+          right:150px;
+          bottom:70px;
+          display: none;
+          }
+ .box2:hover .box2-2{
+          display: block;
+        }
+.box1{width:42px;
+    height:42px;}
+
+#fixed a{width:42px;
+    height:42px;
+    display: block;
+    line-height:0px}
+
+.bgbz{
+    background-image:url('../imgs/04R58PICkYB_1024.jpg');
+}

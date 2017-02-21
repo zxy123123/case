@@ -1,0 +1,13 @@
+
+body{
+    background-image: url('../imgs/2016-05-08_210948.jpg');
+}
+a:link,
+a:visited{
+    color:#7DC2E9;
+}
+a:hover,
+a:active{
+    color:#000;
+}
+

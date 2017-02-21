@@ -1,0 +1,538 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+a:link{text-decoration:none;}
+a:active{text-decoration:none;}
+a:hover{text-decoration:none;}
+a:visited{text-decoration:none;}
+
+.bbb{border-width:1px 0;border-style:solid;border-color:#000;}
+.bkx{border:1px solid #000;}
+
+.bgb{background-color:#313131;}
+.bgw{background-color:#fff;}
+.bgr{background-color:#f00;}
+.bgg{background-color:green;}
+.bgy{background-color:yellow;}
+.bgp{background-color:#FFAEC9;}
+.bgh{background-color:#111111;}
+.bgz{background-color:#E6E6E6;}
+.bgq{background-color:#F4F5F5;}
+.bgj{background-color:#ED6C00;}
+.bgl{background-color:#F4F5F5;}
+.bgzt{background-color:#F2F2F2;}
+
+.mt8{margin-top:8px;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+.mt60{margin-top:60px;}
+.mt150{margin-top:150px;}
+
+.fl{float:left;}
+.fr{float:right;}
+.clear{clear:both;}
+
+.dh{
+    width:1280px;
+    height:40px;
+    margin:0 auto;
+
+}/*导航*/
+
+.ch{
+    width:1000px;
+    height:40px;
+    }/*纯黑那块*/
+
+.dl{
+    width:280px;
+    height:40px;
+    }/*登录那块*/
+n{
+    width: 280px;
+    height:40px;
+    background-color: #313131;
+    font-size:18px;
+    font-weight: 100;
+margin:0 auto;
+}
+u{
+    width:100%;
+    margin:0 auto;
+
+    }
+u l{
+    float:left;
+    line-height:40px;
+
+}
+n a{color:#ED6C00;}
+n a:hover{color:#fff;}
+n a:hover{text-decoration:none;}
+l a{
+    display: block;
+    height:40px;
+    line-height:40px;
+    padding:0 20px;
+    font-family:微软雅黑;
+}
+
+.dhe{
+    width:1280px;
+    height:125px;
+    margin:0 auto;
+}/*导航二*/
+
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+a:active{text-decoration:none;}
+.dh{
+    width:1280px;
+    height:40px;
+    margin:0 auto;
+
+}/*导航*/
+
+.ch{
+    width:1000px;
+    height:40px;
+    }/*纯黑那块*/
+
+.dl{
+    width:280px;
+    height:40px;
+    }/*登录那块*/
+n{
+    width: 280px;
+    height:40px;
+    background-color: #313131;
+    font-size:18px;
+    font-weight: 100;
+margin:0 auto;
+}
+u{
+    width:100%;
+    margin:0 auto;
+
+    }
+u l{
+    float:left;
+    line-height:40px;
+
+}
+n a{color:#ED6C00;}
+n a:hover{color:#fff;}
+n a:hover{text-decoration:none;}
+l a{
+    display: block;
+    height:40px;
+    line-height:40px;
+    padding:0 20px;
+    font-family:微软雅黑;
+}
+
+.dhe{
+    width:1280px;
+    height:125px;
+    margin:0 auto;
+}/*导航二*/
+
+.tub{
+    width:500px;
+    height:125px;
+}/*青橙图标那块*/
+
+.tub1{
+    background:url('./images/tub1.jpg');
+}
+
+.sy{
+    width:780px;
+    height:125px;
+    }/*首页那块导航栏*/
+
+
+ul li{
+    float:left;
+    line-height:100px;
+
+}
+nav a{color:#595757;}
+nav a:hover{color:#ED6C00;}
+nav a:hover{text-decoration:none;}
+li a{
+    display: block;
+    height:40px;
+    line-height:100px;
+    padding:0 20px;
+    text-align:center;
+    font-family:微软雅黑;
+    font-size:16px;
+}
+
+
+.qcn{
+    width:1280px;
+    height:505px;
+    }/*青橙N1s那张图*/
+
+.ztb{
+    width:1280px;
+    height:8px;
+    }/*中间那条空白*/
+
+.zjd{
+    width:1280px;
+    height:763px;
+}/*中间最大的块*/
+
+.sjz{
+    width:1189px;
+    height:763px;
+    margin:0 auto;
+    }/*中间那块手机种类*/
+.sjs{
+    width:1189px;
+    height:381px;
+    }/*中间那块分为上下两个盒子,这个是上面的*/
+.c{
+    width:792px;
+    height:381px;
+}
+.d{
+    width:397px;
+    height:381px;
+}
+.e{
+    width:397px;
+    height:381px;
+}
+.f{
+    width:395px;
+    height:381px;
+}
+
+.sjx{
+    width:1189px;
+    height:382px;
+    }/*中间那块分为上下两个盒子,这个是下面的*/
+.g{
+    width:792px;
+    height:383px;
+}
+.h{
+    width:397px;
+    height:382px;
+}
+.i{
+    width:397px;
+    height:382px;
+}
+.j{
+    width:395px;
+    height:382px;
+}
+
+.dkb{
+    width:1280px;
+    height:70px;
+    }/*底下那块空白*/
+
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+
+
+}
+a:active{text-decoration:none;}
+.dh{
+    width:1280px;
+    height:40px;
+    margin:0 auto;
+
+}/*导航*/
+.ch{
+    width:1000px;
+    height:40px;
+    }/*纯黑那块*/
+
+.dl{
+    width:280px;
+    height:40px;
+    }/*登录那块*/
+n{
+    width: 280px;
+    height:40px;
+    background-color: #313131;
+    font-size:18px;
+    font-weight: 100;
+margin:0 auto;
+}
+u{
+    width:100%;
+    margin:0 auto;
+
+    }
+u l{
+    float:left;
+    line-height:40px;
+
+}
+n a{color:#ED6C00;}
+n a:hover{color:#fff;}
+n a:hover{text-decoration:none;}
+l a{
+    display: block;
+    height:40px;
+    line-height:40px;
+    padding:0 20px;
+    font-family:微软雅黑;
+}
+.db{
+    width:1280px;
+    height:310px;
+}
+.dhe{
+    width:1280px;
+    height:125px;
+    margin:0 auto;
+}/*导航二*/
+
+.tub{
+    width:500px;
+    height:125px;
+}/*青橙图标那块*/
+
+.tub1{
+    background:url('./images/tub1.jpg');
+}
+
+.sy{
+    width:780px;
+    height:125px;
+    }/*首页那块导航栏*/
+
+nav{
+    /*width: 780px;
+    height:125px;*/
+    background-color: yellw;
+    font-size:15px;
+    font-weight: 100;
+margin:0 auto;
+}
+ul li{
+    float:left;
+    line-height:100px;
+
+}
+nav a{color:#595757;}
+nav a:hover{color:#ED6C00;}
+nav a:hover{text-decoration:none;}
+li a{
+    display: block;
+    height:40px;
+    line-height:100px;
+    padding:0 20px;
+    text-align:center;
+    font-family:微软雅黑;
+    font-size:16px;
+}
+
+.ziti{
+    text-align:center;
+    font-family:微软雅黑;
+    font-size:32px;
+    line-height:250px;
+    color:#000;
+}
+.mz{
+     text-align:center;
+    font-family:微软雅黑;
+    font-size:18px;
+    line-height:50px;
+    font-weight: bold;
+    color:#000;
+}/*马的字体*/
+.mz2{
+    line-height:40px;
+}
+
+.shu{
+    width:900px;
+    height:310px;
+}
+.niu{
+    width:380px;
+    height:310px;
+}
+.hu{
+    width:600px;
+    height:310px;
+}
+.tu{
+    width:300px;
+    height:310px;
+}
+.long{
+    width:300px;
+    height:310px;
+}
+.she{
+    width:300px;
+    height:310px;
+}
+.ma{
+    width:150px;
+    height:310px;
+}
+.yang{
+    width:150px;
+    height:310px;
+}
+.hou{
+    width:150px;
+    height:310px;
+}
+.ji{
+    width:150px;
+    height:310px;
+}
+
+
+/*详情页*/
+.c1{
+    width:1280px;
+    height:850px;
+}
+.ej{
+    width:1280px;
+    height:70px;
+}/*赠送耳机那块*/
+
+.hx{
+    width:1280px;
+    height:570px;
+}/*唤醒季那块*/
+.jz{
+    width:1280px;
+    height:758px;
+}/*奖状那块*/
+.tj{
+    width:1280px;
+    height:763px;
+    }/*一句话推荐那块*/
+.dd{
+    width:1280px;
+    height:759px;
+}/*低调的价格*/
+.sk{
+    width:1280px;
+    height:759px;
+    }/*双卡双待*/
+.jz{
+    width:1280px;
+    height:760px;
+    }/*精简桌面*/
+.gq{
+    width:1280px;
+    height:761px;
+    }/*高清语音通话*/
+.cg{
+    width:1280px;
+    height:759px;
+    }/*超高质价比*/
+.gd{
+    width:1280px;
+    height:759px;
+    }/*高清大屏*/
+.zn{
+    width:1280px;
+    height:760px;
+    }/*主体内容丰富*/
+.gz{
+    width:1280px;
+    height:754px;
+    }/*高质自然*/
+.qt{
+    width:1280px;
+    height:759px;
+}/*其他基本参数*/
+.kb{
+    width:1280px;
+    height:80px;
+    }/*空白那块*/
+
+.tb{
+    width:1181px;
+    height:80px;
+    margin:0 auto;
+}/*7天退货保障那块*/
+
+.zhang{
+    width:476px;
+    height:80px;
+}
+.xin{
+    width:705px;
+    height:80px;
+}
+.tz{
+    width:241px;
+    height:80px;
+    }/*7天退货保障那块*/
+.hz{
+    width:235px;
+    height:80px;
+    }/*换货保障那块*/
+.by{
+    width:235px;
+    height:80px;
+}
+.zw{
+    width:470px;
+    height:80px;
+}
+.zf{
+    width:235px;
+    height:80px;
+}
+.wd{
+    width:235px;
+    height:80px;
+}
+
+
+.line{
+    width:1280px;
+    height:3px;
+}
+
+.weibu{
+    width:1280px;
+    height:200px;
+    }/*尾部*/
+
+.wbzt{
+    font-family:微软雅黑;
+    text-align:center;
+    color:#000;
+ 
+}/*尾部字体*/
+
+.wbzt2{
+    font-family:微软雅黑;
+    text-align:center;
+    color:#000;
+}
+
+
+

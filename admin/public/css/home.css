@@ -1,0 +1,47 @@
+ol,ul {list-style: none;}
+/*a:link,
+a:visited,
+a:hover,*/
+a:active{text-decoration:none;}
+
+a:link,
+a:visited{
+    color:#333333!important;
+}
+a:hover,
+a:active{
+    color:#158CBA!important;
+}
+
+
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+
+body{
+    margin-top: 50px;
+}
+#logo{
+    width: 45px;
+   
+    margin-top: -10px;
+}
+
+#dx{
+    width:15px;
+    height:100px;
+}
+
+a:link,
+a:visited{
+    color:#000;
+}
+a:hover,
+a:active{
+    color:#fff;
+}
+
+
+

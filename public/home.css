@@ -1,0 +1,37 @@
+.fengo{
+    display: inline;
+}
+
+
+ol,ul {list-style: none;}
+a:link,
+a:visited,
+a:hover,
+a:active{text-decoration:none;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+
+body{
+    margin-top: 54px;
+}
+#logo{
+    width: 35px;
+    height:35px;
+    margin-top: -10px;
+}
+
+.zt{font-family:微软雅黑;}
+
+.col{color:#FF7E00;}
+#logo{
+    width: 35px;
+    height:35px;
+    margin-top: -10px;
+}
+
+#bgbz{
+    background-image:url('../imgs/04R58PICkYB_1024.jpg');
+}
